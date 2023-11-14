@@ -1,5 +1,10 @@
 ---
 license: apache-2.0
+tags:
+- code
+- safetensors
+- chatbot
+- 0.7B
 ---
 
 # TinyKAI 0.7B
