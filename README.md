@@ -25,7 +25,7 @@ Due to being one of the tiniest "large" language models on huggingface, many cor
 TinyKAI-1B is governed by the [apache 2.0 liscense](https://choosealicense.com/licenses/apache-2.0/), and therefore means that whatever the license deems unacceptable shall not be allowed. We specificaly ban the use of  [ANY AND ALL KAI MODELS](https://huggingface.co/collections/Keynote-Technology/kai-large-language-models) for hate speech towards a paricular thing, person, our particular group due to [legal](https://www.ftc.gov/news-events/news/press-releases/2022/06/ftc-report-warns-about-using-artificial-intelligence-combat-online-problems) and ethical issues.
 
 ## Limitations
-100 characters max output length, English only, and extremely small.
+2K characters max output length, English only, and extremely tiny (1GB).
 
 ## Recommendations
 TinyKAI-0.7B is a very small model, and is good for AI research especially.
