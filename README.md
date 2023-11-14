@@ -5,6 +5,9 @@ tags:
 - safetensors
 - chatbot
 - 0.7B
+datasets:
+- Keynote-Technology/PLANE-2K
+- togethercomputer/RedPajama-Data-V2
 ---
 
 # TinyKAI 0.7B
