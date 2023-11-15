@@ -6,7 +6,6 @@ tags:
 - chatbot
 - 0.7B
 - fill-mask
-- autotrain
 datasets:
 - Keynote-Technology/PLANE-2K
 - togethercomputer/RedPajama-Data-V2
