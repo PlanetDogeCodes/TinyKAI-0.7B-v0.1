@@ -5,6 +5,8 @@ tags:
 - safetensors
 - chatbot
 - 0.7B
+- question-answering
+- fill-mask
 datasets:
 - Keynote-Technology/PLANE-2K
 - togethercomputer/RedPajama-Data-V2
