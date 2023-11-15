@@ -15,7 +15,7 @@ datasets:
 
 ## Model Details
 TinyKAI-0.7B is one of the world's SMALLEST "large" language models EVER!
-We acheived such a feat by essentially compressing [GPT2](https://huggingface.co/gpt2) and squeezing it to be UNDER 1 billion parameters!
+We acheived such a feat by essentially compressing [GPT2](https://huggingface.co/gpt2) and squeezing it to fit into one sub-GB pytorch.bin file!
 
 ## Uses
 Due to being one of the tiniest "large" language models on huggingface, many corners had to be cut. TinyKAI-0.7B has a max output of only 150 characters per computation (without repeating itself). Therefore, TinyKAI is only intended for research purposes.
